@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 10\n\n[1] 11"
+    "text": "Email: danieldai21@ucla.edu\n\n\n  LinkedIn \n  Resume \n\n\n\nDaniel Dai\nHi, I’m Daniel, a fourth-year student at UCLA, majoring in Statistics & Data Science and Applied Mathematics. I am deeply interested in machine learning and its applications in finance. Feel free to connect!"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,33 @@
     "title": "personal_website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Currently studying diffusion models for virtual staining applications under the supervision of Hanlong Chen at the Ozcan Research Group. I have completed a term report on the initial findings and am now working to replicate these results using flow matching techniques. (Fall25 Term Report)"
+  },
+  {
+    "objectID": "projects.html#ongoing-research",
+    "href": "projects.html#ongoing-research",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Currently studying diffusion models for virtual staining applications under the supervision of Hanlong Chen at the Ozcan Research Group. I have completed a term report on the initial findings and am now working to replicate these results using flow matching techniques. (Fall25 Term Report)"
+  },
+  {
+    "objectID": "projects.html#past-projects",
+    "href": "projects.html#past-projects",
+    "title": "Research & Projects",
+    "section": "Past Projects",
+    "text": "Past Projects\n\nStats 101C Final Project (Regression): Predicting Monthly Total Sales on Amazon by State Using Amazon Survey Data\nStats 101C Final Project (Classification): Predicting the 2020 Presidential Election County Winners - Trump vs. Biden\nResearch Paper (MIT): Assessing the Impact of COVID-19 on US Job Openings: An ARIMA Model Analysis Supervision: Dr. Peter Kempthorne\nStats 140XP Capstone: Civilian Impact of U.S. Drone vs. Non-Drone Strikes in Somalia and Yemen"
+  },
+  {
+    "objectID": "datatalks.html",
+    "href": "datatalks.html",
+    "title": "Datatalks Consulting",
+    "section": "",
+    "text": "I co-founded Datatalks Consulting at UCLA in 2024 and currently serve as the President. I have always championed the idea of giving back to the community, aiming to use data skills to create meaningful impact and improve society.\nSince our founding, we have collaborated with 8 non-profit organizations across Southern California, supporting causes including animal welfare, LGBTQ+ rights, conservation corps, and more.\nVisit our LinkedIn\n\n\nOur Community"
   }
 ]

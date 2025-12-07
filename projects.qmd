@@ -1,0 +1,23 @@
+---
+title: "Research & Projects"
+toc: false
+---
+
+## Ongoing Research
+
+### Flow Matching & Diffusion Models for Virtual Staining
+
+Currently studying diffusion models for virtual staining applications under the supervision of [Hanlong Chen](https://scholar.google.com/citations?user=DCH65z0AAAAJ&hl=zh-CN) at the [Ozcan Research Group](https://research.seas.ucla.edu/ozcan/). I have completed a term report on the initial findings and am now working to replicate these results using flow matching techniques. [(Fall25 Term Report)](files/term_report.pdf)
+
+---
+
+## Past Projects
+
+* **Stats 101C Final Project (Regression):** [Predicting Monthly Total Sales on Amazon by State Using Amazon Survey Data ](files/Stats101C_Regression.pdf)
+
+* **Stats 101C Final Project (Classification):** [Predicting the 2020 Presidential Election County Winners - Trump vs. Biden](files/Stats101C_Classification.pdf)
+
+* **Research Paper (MIT):** [Assessing the Impact of COVID-19 on US Job Openings: An ARIMA Model Analysis](files/MIT_research.pdf)
+  *Supervision: Dr. Peter Kempthorne* 
+
+* **Stats 140XP Capstone:** [Civilian Impact of U.S. Drone vs. Non-Drone Strikes in Somalia and Yemen](files/Stats140XP_FinalPoster.pdf)

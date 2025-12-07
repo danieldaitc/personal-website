@@ -1,9 +1,36 @@
 ---
-title: "About"
+title: "About Me"
+image: Daniel_Dai.jpg 
 ---
 
-About this site
+::: {.columns}
 
-```{r}
-1 + 10
-```
+::: {.column width="30%"}
+![](Daniel_Dai.jpg){.img-fluid .rounded-3}
+
+<p style="margin-top: 10px; margin-bottom: 5px;">
+  **Email:** <a href="mailto:danieldai21@ucla.edu">danieldai21@ucla.edu</a>
+</p>
+
+<div class="btn-group" role="group" aria-label="Social and Contact Links">
+  
+  <a href="https://www.linkedin.com/in/danieldaitc" target="_blank" class="btn btn-outline-primary me-2">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+  
+  <a href="Daniel_Dai_Resume.pdf" target="_blank" class="btn btn-outline-primary">
+    <i class="bi bi-file-earmark-person-fill"></i> Resume
+  </a>
+
+</div>
+
+:::
+
+::: {.column width="70%" style="padding-left: 40px;"} 
+# Daniel Dai
+
+Hi, I’m Daniel, a fourth-year student at UCLA, majoring in Statistics & Data Science and Applied Mathematics. I am deeply interested in machine learning and its applications in finance. Feel free to connect!
+
+:::
+
+:::

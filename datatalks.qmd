@@ -1,0 +1,18 @@
+---
+title: "Datatalks Consulting"
+toc: false
+---
+
+<img src="datatalks.png" width="150" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+
+I co-founded **Datatalks Consulting** at UCLA in 2024 and currently serve as the President. I have always championed the idea of giving back to the community, aiming to use data skills to create meaningful impact and improve society.
+
+Since our founding, we have collaborated with **8 non-profit organizations** across Southern California, supporting causes including animal welfare, LGBTQ+ rights, conservation corps, and more.
+
+[Visit our LinkedIn](https://www.linkedin.com/company/datatalks-consulting/posts/?feedView=all)
+
+<br>
+
+### Our Community
+
+![](datatalks_social.jpg){width=60%}
